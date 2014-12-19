@@ -1,0 +1,9 @@
+F:\Bristy\19-Dec-2014Project\ArrayWithStudentType\ArrayWithStudentType\bin\Debug\ArrayWithStudentType.exe.config
+F:\Bristy\19-Dec-2014Project\ArrayWithStudentType\ArrayWithStudentType\bin\Debug\ArrayWithStudentType.exe
+F:\Bristy\19-Dec-2014Project\ArrayWithStudentType\ArrayWithStudentType\bin\Debug\ArrayWithStudentType.pdb
+F:\Bristy\19-Dec-2014Project\ArrayWithStudentType\ArrayWithStudentType\obj\Debug\ArrayWithStudentType.csprojResolveAssemblyReference.cache
+F:\Bristy\19-Dec-2014Project\ArrayWithStudentType\ArrayWithStudentType\obj\Debug\ArrayWithStudentType.exe
+F:\Bristy\19-Dec-2014Project\ArrayWithStudentType\ArrayWithStudentType\obj\Debug\ArrayWithStudentType.pdb
+D:\Daily Project\19-Dec-2014Project\ArrayWithStudentType\ArrayWithStudentType\bin\Debug\ArrayWithStudentType.exe.config
+D:\Daily Project\19-Dec-2014Project\ArrayWithStudentType\ArrayWithStudentType\obj\Debug\ArrayWithStudentType.exe
+D:\Daily Project\19-Dec-2014Project\ArrayWithStudentType\ArrayWithStudentType\obj\Debug\ArrayWithStudentType.pdb

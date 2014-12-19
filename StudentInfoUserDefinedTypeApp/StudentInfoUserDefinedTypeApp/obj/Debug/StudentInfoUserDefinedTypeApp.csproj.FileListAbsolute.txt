@@ -1,0 +1,21 @@
+D:\msd projects\Day 8\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\bin\Debug\StudentInfoUserDefinedTypeApp.exe.config
+D:\msd projects\Day 8\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\bin\Debug\StudentInfoUserDefinedTypeApp.exe
+D:\msd projects\Day 8\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\bin\Debug\StudentInfoUserDefinedTypeApp.pdb
+D:\msd projects\Day 8\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.csprojResolveAssemblyReference.cache
+D:\msd projects\Day 8\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.Properties.Resources.resources
+D:\msd projects\Day 8\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.StudentInformationUI.resources
+D:\msd projects\Day 8\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.csproj.GenerateResource.Cache
+D:\msd projects\Day 8\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.exe
+D:\msd projects\Day 8\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.pdb
+F:\Bristy\19-Dec-2014Project\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\bin\Debug\StudentInfoUserDefinedTypeApp.exe.config
+F:\Bristy\19-Dec-2014Project\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.exe
+F:\Bristy\19-Dec-2014Project\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.pdb
+D:\Daily Project\19-Dec-2014Project\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\bin\Debug\StudentInfoUserDefinedTypeApp.exe.config
+D:\Daily Project\19-Dec-2014Project\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.exe
+D:\Daily Project\19-Dec-2014Project\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.pdb
+D:\Daily Project\19-Dec-2014Project\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\bin\Debug\StudentInfoUserDefinedTypeApp.exe
+D:\Daily Project\19-Dec-2014Project\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\bin\Debug\StudentInfoUserDefinedTypeApp.pdb
+D:\Daily Project\19-Dec-2014Project\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.csprojResolveAssemblyReference.cache
+D:\Daily Project\19-Dec-2014Project\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.Properties.Resources.resources
+D:\Daily Project\19-Dec-2014Project\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.StudentInformationUI.resources
+D:\Daily Project\19-Dec-2014Project\StudentInfoUserDefinedTypeApp\StudentInfoUserDefinedTypeApp\obj\Debug\StudentInfoUserDefinedTypeApp.csproj.GenerateResource.Cache

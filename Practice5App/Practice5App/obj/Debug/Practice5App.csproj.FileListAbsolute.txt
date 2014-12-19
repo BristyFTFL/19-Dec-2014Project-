@@ -1,0 +1,18 @@
+F:\Bristy\19-Dec-2014Project\Practice5App\Practice5App\bin\Debug\Practice5App.exe.config
+F:\Bristy\19-Dec-2014Project\Practice5App\Practice5App\bin\Debug\Practice5App.exe
+F:\Bristy\19-Dec-2014Project\Practice5App\Practice5App\bin\Debug\Practice5App.pdb
+F:\Bristy\19-Dec-2014Project\Practice5App\Practice5App\obj\Debug\Practice5App.csprojResolveAssemblyReference.cache
+F:\Bristy\19-Dec-2014Project\Practice5App\Practice5App\obj\Debug\Practice5App.Form1.resources
+F:\Bristy\19-Dec-2014Project\Practice5App\Practice5App\obj\Debug\Practice5App.Properties.Resources.resources
+F:\Bristy\19-Dec-2014Project\Practice5App\Practice5App\obj\Debug\Practice5App.csproj.GenerateResource.Cache
+F:\Bristy\19-Dec-2014Project\Practice5App\Practice5App\obj\Debug\Practice5App.exe
+F:\Bristy\19-Dec-2014Project\Practice5App\Practice5App\obj\Debug\Practice5App.pdb
+D:\Daily Project\19-Dec-2014Project\Practice5App\Practice5App\bin\Debug\Practice5App.exe.config
+D:\Daily Project\19-Dec-2014Project\Practice5App\Practice5App\obj\Debug\Practice5App.exe
+D:\Daily Project\19-Dec-2014Project\Practice5App\Practice5App\obj\Debug\Practice5App.pdb
+D:\Daily Project\19-Dec-2014Project\Practice5App\Practice5App\bin\Debug\Practice5App.exe
+D:\Daily Project\19-Dec-2014Project\Practice5App\Practice5App\bin\Debug\Practice5App.pdb
+D:\Daily Project\19-Dec-2014Project\Practice5App\Practice5App\obj\Debug\Practice5App.csprojResolveAssemblyReference.cache
+D:\Daily Project\19-Dec-2014Project\Practice5App\Practice5App\obj\Debug\Practice5App.Form1.resources
+D:\Daily Project\19-Dec-2014Project\Practice5App\Practice5App\obj\Debug\Practice5App.Properties.Resources.resources
+D:\Daily Project\19-Dec-2014Project\Practice5App\Practice5App\obj\Debug\Practice5App.csproj.GenerateResource.Cache
